@@ -1,0 +1,5 @@
+print(" ayush ")
+print("gla")
+print("roll-10")
+print("sec-cd")
+print("hostel-D block")
